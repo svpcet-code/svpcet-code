@@ -1,7 +1,8 @@
 ## Hi there this is our first comment <br>
 shubham dongare<br>
 this is next line <br>
-
+🔭 I’m currently working on python project<br>
+- 🌱 I’m currently learning mechine-learning 
 <!--
 **svpcet-code/svpcet-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
