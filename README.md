@@ -1,8 +1,4 @@
 # 👋 Hi, I'm Shubham Dongare  
-![Shubh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=svpcet-code&theme=react-dark&area=true)
-
-
-
 🔥 Aspiring Developer | 🌱 From Parsodi, Wardha | 🚀 Always Learning  
 
 ---
