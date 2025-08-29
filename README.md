@@ -17,13 +17,13 @@
 ## 🚀 Skills
 - 🌐 **Frontend:** HTML, CSS, JavaScript, React Native  
 - ⚙️ **Backend:** Node.js, PHP  
-- 🐍 **Programming:** Python, C, C++, Java  
-- 📊 **Tools:** Power BI, Git, GitHub  
+- 🐍 **Programming:** Python, C, C++
+- 📊 **Tools:** Power BI, Git, GitHub,canva.  
 
 ---
 
 ## 🌟 Highlight Projects
-- 🌱 Krishi App for Farmers  
+- 🌱 to-do app
 - 🧠 SynapSync – Neural Network Synchronization  
 - 📱 College Students App  
 
