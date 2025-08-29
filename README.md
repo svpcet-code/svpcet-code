@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Shubham Dongare  
 ![Snake animation](https://raw.githubusercontent.com/svpcet-code/svpcet-code/output/snake.svg)
 
+
 🔥 Aspiring Developer | 🌱 From Parsodi, Wardha | 🚀 Always Learning  
 
 ---
