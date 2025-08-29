@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Shubham Dongare  
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/svpcet-code/svpcet-code/blob/output/snake.svg)
+![Shubh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=svpcet-code&theme=react-dark&area=true)
 
 
 
@@ -8,9 +7,7 @@
 
 ---
 
-### 🐍 Contribution Snake
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/svpcet-code/svpcet-code/blob/output/snake.svg)
+![Shubh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=svpcet-code&theme=react-dark&area=true)
 
 ---
 
