@@ -1,19 +1,40 @@
-## Hi there this is our first comment <br>
-shubham dongare<br>
-python programs<br>
-🔭 I’m currently working on python project<br>
-- 🌱 I’m currently learning mechine-learning 
-<!--
-**svpcet-code/svpcet-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Shubham Dongare  
 
-Here are some ideas to get you started:
+🔥 Aspiring Developer | 🌱 From Parsodi, Wardha | 🚀 Always Learning  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/svpcet-code/svpcet-code/output/snake.svg)
+
+---
+
+## 📊 GitHub Dashboard
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=svpcet-code&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svpcet-code&layout=compact&theme=tokyonight)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=svpcet-code&theme=dark)  
+
+---
+
+## 🚀 Skills
+- 🌐 **Frontend:** HTML, CSS, JavaScript, React Native  
+- ⚙️ **Backend:** Node.js, PHP  
+- 🐍 **Programming:** Python, C, C++, Java  
+- 📊 **Tools:** Power BI, Git, GitHub  
+
+---
+
+## 🌟 Highlight Projects
+- 🌱 Krishi App for Farmers  
+- 🧠 SynapSync – Neural Network Synchronization  
+- 📱 College Students App  
+
+---
+
+## 🏆 Achievements & Extras
+![trophy](https://github-profile-trophy.vercel.app/?username=svpcet-code&theme=onedark)  
+![Profile views](https://komarev.com/ghpvc/?username=svpcet-code&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
+💡 *"Turning Ideas into Code | AI & Web Enthusiast"*
