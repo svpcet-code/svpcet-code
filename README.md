@@ -64,11 +64,26 @@
 
 ---
 
-## 📬 Connect with Me  
+## 📈 GitHub Stats Fun 🚀  
+
 <p align="center">
-  <a href="mailto:shubhamdongare912@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  <!-- Contribution Graph as Fun Snake Animation -->
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake Game" width="600"/>
+</p>
+
+<p align="center">
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=svpcet-code&theme=dark&border_radius=10" alt="Streak Stats" width="500"/>
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svpcet-code&layout=compact&theme=tokyonight&hide=TeX" alt="Top Languages" width="500"/>
+</p>
+
+<p align="center">
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=svpcet-code&show_icons=true&theme=radical&count_private=true&hide_title=false&hide_border=false" alt="GitHub Stats" width="500"/>
 </p>
 
 
