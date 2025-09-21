@@ -4,14 +4,14 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Turning+Ideas+into+Code;AI+%26+Web+Enthusiast;Always+Learning+New+Tech!;Let's+Build+Something+Awesome+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Turning+Ideas+into+Code;AI+%26+Web+Enthusiast;Keep+Learning+Everyday;Code.+Build.+Inspire." alt="Typing Animation"/>
 </p>
 
 ---
 
-### 📊 GitHub Dashboard
+## 📊 GitHub Dashboard  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=svpcet-code&theme=react-dark&area=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=svpcet-code&theme=react-dark&area=true" alt="Activity Graph"/>
 </p>
 
 <p align="center">
@@ -25,27 +25,25 @@
 
 ---
 
-### 🚀 Skills  
+## 🚀 Skills  
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JS%20%7C%20ReactNative-blue?style=for-the-badge&logo=react&logoColor=white" alt="Frontend"/>
-  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20PHP-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Backend"/>
-  <img src="https://img.shields.io/badge/Programming-Python%20%7C%20C%20%7C%20C++-orange?style=for-the-badge&logo=python&logoColor=white" alt="Programming"/>
-  <img src="https://img.shields.io/badge/Tools-PowerBI%20%7C%20Git%20%7C%20GitHub%20%7C%20Canva-purple?style=for-the-badge&logo=github&logoColor=white" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,python,cpp,git,github,figma,ai,powerbi&perline=6" alt="My Skills"/>
 </p>
 
 ---
 
-### 🌟 Highlight Projects
-🚀 **Featured Works:**  
+## 🌟 Highlight Projects  
 - 🌱 To-Do App  
-- 🧠 SynapSync – Neural Network Synchronization  
+- 🧠 Synapes  
 - 📱 College Students App  
+- 💼 Internship Projects  
+- 🤖 Agentic-AI Projects  
 
 ---
 
-### 🏆 Achievements & Extras
+## 🏆 Achievements & Extras  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=svpcet-code&theme=onedark&margin-w=15&margin-h=15" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=svpcet-code&theme=onedark&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
 <p align="center">
@@ -56,6 +54,6 @@
 
 <p align="center">
   <img src="https://github.com/simonw/simonw/raw/main/assets/wave.gif" width="30"/>  
-  💡 *"Turning Ideas into Code | AI & Web Enthusiast"*  
+  💡 *"Code Today, Create Tomorrow | 🚀 Innovating with AI & Web"*  
   <img src="https://github.com/simonw/simonw/raw/main/assets/wave.gif" width="30"/>
 </p>
