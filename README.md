@@ -63,12 +63,6 @@
 </p>
 
 ---
-## 🎯 Skill Radar & Projects 🚀
-
-### 🛠 Skill Wheel
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,python,cpp,git,github,figma,ai,powerbi&perline=7" alt="Skill Wheel"/>
-</p>
 
 
 
