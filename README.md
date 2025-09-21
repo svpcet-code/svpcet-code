@@ -99,45 +99,7 @@
 
 
 
+### 💻 Shubh's Hacker Vibes
+![Hacker Animation](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
-## 🎮 Shubh's Coding Playground 🚀
-
-### 🌟 Contribution Graph Art
-<p align="center">
-  <!-- Contribution Graph forming "SD" initials -->
-  <img src="https://github.com/svpcet-code/svpcet-code/raw/main/sd-contributions.svg" alt="Contribution Graph Art" width="600"/>
-  <br>
-  <sub>🖋️ Your contributions form initials! Changes dynamically as you code.</sub>
-</p>
-
----
-
-### 🎬 Project GIF Showcase
-<p align="center">
-  <a href="https://github.com/svpcet-code/todo-app">
-    <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="To-Do App" width="200"/>
-  </a>
-  <a href="https://github.com/svpcet-code/synapes-website">
-    <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" alt="Synapes Website" width="200"/>
-  </a>
-  <a href="https://github.com/svpcet-code/college-app">
-    <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="College App" width="200"/>
-  </a>
-</p>
-<sub>💡 Hover over each GIF to see the project name!</sub>
-
----
-
-### 💡 Fun Facts / Daily Quotes
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&center=true&width=500&lines=☕+Coffee+Lover;🎮+Gamer;🛰️+AI+Explorer;Keep+Learning+Everyday;Code.+Build.+Inspire" alt="Daily Fun Typing Quote"/>
-</p>
-
----
-
-### 🛠 Skill Badge Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,python,cpp,git,github,figma,ai,powerbi&perline=8" alt="Skill Cloud"/>
-</p>
-<sub>🌈 Hover over icons to see each skill!</sub>
 
