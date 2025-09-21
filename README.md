@@ -70,23 +70,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,python,cpp,git,github,figma,ai,powerbi&perline=7" alt="Skill Wheel"/>
 </p>
 
-### 🎬 Project Showcase
-<p align="center">
-  <a href="https://github.com/svpcet-code/todo-app">
-    <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="To-Do App GIF" width="200"/>
-  </a>
-  <a href="https://github.com/svpcet-code/synapes-website">
-    <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" alt="Synapes Website GIF" width="200"/>
-  </a>
-  <a href="https://github.com/svpcet-code/college-app">
-    <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="College App GIF" width="200"/>
-  </a>
-</p>
-
-### 💡 Daily Quote / Fun Fact
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&center=true&width=500&lines=Keep+Learning+Everyday;Code.+Build.+Inspire.;☕+Coffee+Lover;🎮+Gamer;🛰️+AI+Explorer" alt="Daily Fun Typing Quote"/>
-</p>
 
 
 ## 📬 Connect With Me  
