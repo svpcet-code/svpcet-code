@@ -71,6 +71,24 @@
 
 ---
 
+## 📬 Connect With Me  
+<p align="center">
+  <a href="mailto:shubhamdongare912@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61558960514891" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/shubhamdongare900" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/svpcet-code" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
 <p align="center">
   <img src="https://github.com/simonw/simonw/raw/main/assets/wave.gif" width="30"/>  
   💡 *"Code Today, Create Tomorrow | 🚀 Innovating with AI & Web"*  
