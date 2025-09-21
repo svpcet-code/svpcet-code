@@ -64,12 +64,13 @@
 
 ---
 
-## 🌊 Just for Fun  
+## 📬 Connect with Me  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/fish.gif" width="600"/>
+  <a href="mailto:shubhamdongare912@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
----
 
 ## 📬 Connect With Me  
 <p align="center">
