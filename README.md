@@ -80,12 +80,12 @@
   <a href="https://github.com/svpcet-code" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</p>
-<p align="center">
-  <img src="https://cdn.codechef.com/easygrader/graph/shubh_912.svg" alt="CodeChef Contributions"/>
-</p>
+    <a href="https://www.codechef.com/users/shubh_912" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-shubh_912-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
 
----
+
+</p>
 
 <p align="center">
   <img src="https://github.com/simonw/simonw/raw/main/assets/wave.gif" width="30"/>  
