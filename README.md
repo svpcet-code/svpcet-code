@@ -57,3 +57,10 @@
   💡 *"Code Today, Create Tomorrow | 🚀 Innovating with AI & Web"*  
   <img src="https://github.com/simonw/simonw/raw/main/assets/wave.gif" width="30"/>
 </p>
+
+---
+
+<!-- 🌊 Fish & Water Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/fish.gif" width="600"/>
+</p>
