@@ -73,18 +73,6 @@ Learning:
 
 ---
 
-# 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🤖 Agentic AI | AI Automation Projects | Python, Gemini |
-| 💼 Synapes Website | College Community Website | HTML CSS JS |
-| 🌱 Student Portal | College Student Platform | PHP MySQL |
-| 📋 To-Do App | Productivity App | React |
-| 📊 Power BI Dashboard | Data Visualization | Power BI |
-
----
-
 # 🎯 Current Goals
 
 - 🚀 Master Full Stack Development
