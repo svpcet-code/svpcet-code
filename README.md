@@ -33,27 +33,14 @@ Learning:
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,php,html,css"/>
-
-### Frameworks
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express"/>
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,powerbi"/>
-
-</div>
+| Category | Technologies |
+|----------|--------------|
+| 💻 Languages | <img src="https://skillicons.dev/icons?i=python,c,cpp,js,php,html,css&theme=dark" /> |
+| ⚛️ Frameworks | <img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark" /> |
+| 🗄️ Database | <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" /> |
+| 🧰 Tools | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" /> |
 
 ---
 
