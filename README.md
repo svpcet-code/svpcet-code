@@ -5,7 +5,7 @@
   <a href="mailto:shubhamdongare912@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/shubham-dongare-b0b816328"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://facebook.com/profile.php?id=61558960514891"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.instagram.com/shubhamdongare900?igsh=NTNuYzlkNWdleWgx"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/svpcet-code?igsh=NTNuYzlkNWdleWgx"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.tinkercad.com/dashboard/designs/all"><img src="https://img.shields.io/badge/Tinkercad-1BA1E2?style=for-the-badge&logo=autodesk&logoColor=white"/></a>
 </p>
 
@@ -75,22 +75,20 @@ Currently Learning:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shubhamdongare900&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdongare900&layout=compact&theme=radical&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=svpcet-code&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svpcet-code&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamdongare900&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=svpcet-code&theme=radical&hide_border=true"/>
 </p>
-
-> Replace `shubhamdongare900` above with your exact GitHub username if it's different, so the stat cards pull your real data.
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubhamdongare900&theme=radical&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=svpcet-code&theme=radical&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -114,7 +112,7 @@ Currently Learning:
   <a href="mailto:shubhamdongare912@gmail.com">📧 Email</a> •
   <a href="https://linkedin.com/in/shubham-dongare-b0b816328">💼 LinkedIn</a> •
   <a href="https://facebook.com/profile.php?id=61558960514891">📘 Facebook</a> •
-  <a href="https://www.instagram.com/shubhamdongare900?igsh=NTNuYzlkNWdleWgx">📸 Instagram</a> •
+  <a href="https://www.instagram.com/svpcet-code?igsh=NTNuYzlkNWdleWgx">📸 Instagram</a> •
   <a href="https://www.tinkercad.com/dashboard/designs/all">🔧 Tinkercad</a>
 </p>
 
