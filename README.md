@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Shubham Dongare
 
-### 💻 Computer Engineering Student • AIML+DS & Full Stack Developer • Open Source Learner
+### 💻 Computer Engineering Student • AI & Full Stack Developer • Open Source Learner
 
 ---
 
