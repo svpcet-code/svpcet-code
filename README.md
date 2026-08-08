@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Shubham Dongare
 
-### 💻 Computer Engineering Student • AI & Full Stack Developer • Open Source Learner
+### 💻 Computer Engineering Student • AI & ML Developer • Data Science • Full Stack • IoT
 
 ---
 
@@ -11,28 +11,38 @@ Name: Shubham Dongare
 Location: Maharashtra, India 🇮🇳
 Education: B.Tech Computer Engineering
 College: SVPCET Nagpur
-Current Focus:
-  - AI Development
+
+Main Focus:
+  - Artificial Intelligence
+  - Machine Learning
+  - Data Science
+
+Also Exploring:
   - Full Stack Web Development
+  - IoT
   - Agentic AI
   - Open Source
+
 Learning:
-  - React
-  - Node.js
   - Python
   - Machine Learning
+  - Data Science
+  - React
+  - Node.js
+  - IoT
 ```
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category      | Technologies |
-| ------------- | ------------ |
-| 💻 Languages  |              |
-| ⚛️ Frameworks |              |
-| 🗄️ Database  |              |
-| 🧰 Tools      |              |
+| Category           | Technologies                                             |
+| ------------------ | -------------------------------------------------------- |
+| 🤖 AI / ML / DS    | Python, NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch |
+| 🌐 Web Development | HTML, CSS, JavaScript, React, Node.js, Express, FastAPI  |
+| 🗄️ Database       | MySQL, PostgreSQL, MongoDB                               |
+| 📡 IoT             | Arduino, Sensors, ESP32                                  |
+| 🧰 Tools           | Git, GitHub, VS Code, Docker                             |
 
 ---
 
@@ -42,19 +52,18 @@ Learning:
 
 # 🎯 Current Goals
 
-- 🚀 Master Full Stack Development
-- 🤖 Build AI Applications
-- 🌍 Contribute to Open Source
-- 💼 Crack Internship
-- 📈 Reach 500+ GitHub Contributions
+* 🤖 Master AI & Machine Learning
+* 📊 Build Data Science Projects
+* 🧠 Build Real-World AI Applications
+* 🌐 Improve Full Stack Development
+* 📡 Explore IoT + AI Projects
+* 🌍 Contribute to Open Source
+* 💼 Crack a Good Internship
+* 📈 Reach 500+ GitHub Contributions
 
 ---
 
 # 🏆 GitHub Trophies
-
----
-
-# 📈 Contribution Snake
 
 ---
 
@@ -66,4 +75,4 @@ Learning:
 
 > **"The best way to predict the future is to build it."**
 
-⭐ If you like my work, consider giving a star to my repositories! isme se snak contribution wala hata de and ai + ml + ds + web + iot but main ai-ds-ml rakh 
+⭐ If you like my work, consider giving a star to my repositories!
